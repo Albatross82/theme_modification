@@ -1,5 +1,5 @@
 # theme_modifications -- modification theme for monstroid
-Plugin Name: Theme Monstroid2 Integration
+Plugin Name: Theme Monstroid2 Integration </br>
 Version: 0.1.0
 Date: 30.07.2018
 Author: Roy Shirocov
