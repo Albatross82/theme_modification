@@ -1,0 +1,5 @@
+.cherry-projects-single__media {display: none;}
+h5.page-title {display: none !important;}
+.cherry-projects-slider__instance .sp-image-container:before {height:1px !important; color: white !important;}
+.post-thumbnail__img.wp-post-image {display: none;}
+.post-author-bio {display: none;}

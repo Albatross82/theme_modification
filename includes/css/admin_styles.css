@@ -1,0 +1,11 @@
+div.notice.notice-error.is-dismissible {display: none;}
+div.notice.notice-error {display: none;}
+div#message.error {display: none;}
+.button.wc-action-button.wc-action-button-download_xml.download_xml {display: none;}
+.button.tips.wpo_wcpdf.invoice {display: none;}
+.widefat .column-wc_actions a.view::after {font-family: WooCommerce !important;}
+option[value="create_shipment_dhl"] {display: none;}
+option[value="create_shipment_return_dhl"]{display: none;}
+option[value="invoice"]{display: none;}
+option[value="download_xml"]{display: none;}
+option[value="unflag_export"]{display: none;}
